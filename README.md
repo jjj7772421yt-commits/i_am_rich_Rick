@@ -1,6 +1,6 @@
-# Rick — 我很有錢
+# Rick — 禁止職場霸凌
 
-繁體中文個人宣言網頁，使用 HTML、CSS 與原生 JavaScript，無須安裝依賴。
+繁體中文反職場霸凌宣言網頁，使用 HTML、CSS 與原生 JavaScript，無須安裝依賴。
 
 直接用瀏覽器開啟 `index.html`，或在此目錄啟動本機伺服器：
 
